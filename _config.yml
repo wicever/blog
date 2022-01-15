@@ -127,7 +127,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: git@github.com:wicever/blog
+#  repo: git@github.com:wicever/blog
   branch: gh-pages
 
 # 搜索
